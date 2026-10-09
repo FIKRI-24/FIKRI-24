@@ -1,3 +1,11 @@
+<!--
+===================================================================
+✨ GITHUB PROFILE README — FIKRI ARRAHMAN
+Repository Name: FIKRI-24 / FIKRI-24
+File: README.md
+===================================================================
+-->
+
 <div align="center">
 
   <!-- Header Banner & Dynamic Typing SVG Animation -->
@@ -132,6 +140,14 @@
 
 ---
 
+### 🏆 Pencapaian & Trofi GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=FIKRI-24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 📊 Statistik Aktivitas GitHub
 
 <div align="center">
@@ -150,6 +166,18 @@
       </td>
     </tr>
   </table>
+</div>
+
+---
+
+### 🐍 Animasi Kotak Kontribusi (Contribution Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIKRI-24/FIKRI-24/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FIKRI-24/FIKRI-24/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/FIKRI-24/FIKRI-24/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
