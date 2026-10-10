@@ -170,8 +170,6 @@ File: README.md
 
 ---
 
-### 🐍 Animasi Kotak Kontribusi (Contribution Snake Game)
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FIKRI-24/FIKRI-24/output/github-contribution-grid-snake-dark.svg">
